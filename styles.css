@@ -2,4 +2,24 @@ body {
   background-image: url("universe.jpg");
   color: white;
   background-size: cover;
+  text-align: center;
+  font-family: TASA Explorer, Arial, Helvetica, sans-serif;
+}
+
+.Apply-button {
+  border: none;
+  background: white;
+  padding: 6px 12px;
+  font-family: TASA Explorer, Arial, Helvetica, sans-serif;
+}
+
+.tasa-explorer-fontCustomize {
+  font-family: "TASA Explorer", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.underline {
+  border-bottom: 4px solid white;
 }
