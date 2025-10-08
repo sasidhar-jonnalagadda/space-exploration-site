@@ -1,5 +1,5 @@
 body {
-  background-image: url("universe.jpg");
+  background-image: url("images/universe.jpg");
   color: white;
   background-size: cover;
   text-align: center;
@@ -11,6 +11,7 @@ body {
   background: white;
   padding: 6px 12px;
   font-family: TASA Explorer, Arial, Helvetica, sans-serif;
+  cursor: pointer;
 }
 
 .tasa-explorer-fontCustomize {
@@ -22,4 +23,8 @@ body {
 
 .underline {
   border-bottom: 4px solid white;
+}
+
+#main-logo {
+  width: 150px;
 }
