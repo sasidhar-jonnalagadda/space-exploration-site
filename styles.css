@@ -11,7 +11,13 @@ body {
   background: white;
   padding: 6px 12px;
   font-family: TASA Explorer, Arial, Helvetica, sans-serif;
+}
+
+.Apply-button:hover {
+  background: red;
+  color: white;
   cursor: pointer;
+  font-weight: bold;
 }
 
 .tasa-explorer-fontCustomize {
